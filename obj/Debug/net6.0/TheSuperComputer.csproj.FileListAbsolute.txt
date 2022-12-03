@@ -1,0 +1,15 @@
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\net6.0\TheSuperComputer.csproj.AssemblyReference.cache
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\net6.0\TheSuperComputer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\net6.0\TheSuperComputer.AssemblyInfoInputs.cache
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\net6.0\TheSuperComputer.AssemblyInfo.cs
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\net6.0\TheSuperComputer.csproj.CoreCompileInputs.cache
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\bin\Debug\net6.0\TheSuperComputer.exe
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\bin\Debug\net6.0\TheSuperComputer.deps.json
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\bin\Debug\net6.0\TheSuperComputer.runtimeconfig.json
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\bin\Debug\net6.0\TheSuperComputer.dll
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\bin\Debug\net6.0\TheSuperComputer.pdb
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\net6.0\TheSuperComputer.dll
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\net6.0\refint\TheSuperComputer.dll
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\net6.0\TheSuperComputer.pdb
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\net6.0\TheSuperComputer.genruntimeconfig.cache
+C:\Users\VIVOBOOK\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\net6.0\ref\TheSuperComputer.dll
